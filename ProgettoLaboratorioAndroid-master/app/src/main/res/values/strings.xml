@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoWaker</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Map_Fragment">Sono il frammento della mappa</string>
+</resources>
